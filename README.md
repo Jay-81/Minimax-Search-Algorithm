@@ -1,14 +1,13 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:JAYANI K</h3>
+<h3>Name:JAYANI K        </h3>
 <h3>Register Number: 212224040134 </h3>
-<h3>Date:23-11-2026<h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 </p>
 
 <H3>Theory and Procedure:</H3>
-To begin, let's start by defining what it means to play a perfect game of tic tactac toe:
+To begin, let's start by defining what it means to play a perfect game of tic tac toe:
 
 If I play perfectly, every time I play I will either win the game, or I will draw the game. Furthermore if I play against another perfect player, I will always draw the game.
 
@@ -112,8 +111,8 @@ end
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a8a27e2a-6fd4-46a2-afb5-6d27b8556702)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a2acb6a1-ed8e-42e5-8968-fe805e4b0255)
 
-<h2>Program:</h2>
 
+## Program 
 ```
 import time
 
@@ -275,12 +274,11 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-<h2>Output:</h2>
-<img width="561" height="613" alt="499234148-d043d744-f688-4150-ac71-c8ff04eb0a56" src="https://github.com/user-attachments/assets/f538275a-9c17-454f-b245-b1401e295c54" />
 
-<img width="557" height="615" alt="499234198-d0ae10f0-ca77-4509-96d6-52506d9b9ffe" src="https://github.com/user-attachments/assets/79e989b8-843a-45e6-a2b7-3d7a82b7a891" />
-
-<img width="571" height="384" alt="499234255-d982b312-e943-4cda-a73e-f1cbcc9de2d8" src="https://github.com/user-attachments/assets/ec11a785-16bb-44c3-b656-dcee43f47869" />
+## Output 
+<img width="562" height="611" alt="image" src="https://github.com/user-attachments/assets/668200c6-60ed-4835-90bf-3eed36e5fe22" />
+<img width="557" height="613" alt="image" src="https://github.com/user-attachments/assets/44a7c2f9-4a11-4fc5-a0de-84eb28dba690" />
+<img width="568" height="377" alt="image" src="https://github.com/user-attachments/assets/c3fe1707-13b9-45bd-9d7d-233e8fd06c81" />
 
 <hr>
 <h2>Result:</h2>
